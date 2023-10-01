@@ -13,7 +13,7 @@
     </a>
 </div>
 <div align="center">
-    <h1>🔧 Vendetta CloudSync</h1>
+    <h1>🎵 Vendetta SongSpotlight</h1>
 </div>
 
 Code is mostly taken from [CloudSync](https://github.com/nexpid/VendettaCloudSync)
