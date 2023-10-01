@@ -45,8 +45,7 @@ Steps:
    echo YOUR_BOTS_CLIENT_SECRET | wrangler secret put client_secret
    ```
 
-3. Rename `wrangler.toml.EXAMPLE` to `wrangler.toml`
-4. Run
+3. Run
 
    ```sh
    wrangler d1 create VendettaSongSpotlight
@@ -54,7 +53,7 @@ Steps:
 
    then replace `DATABASE_ID_HERE` in `wrangler.toml` with the `database_id` wrangler returned
 
-5. You're done! Now all you have to run is
+4. You're done! Now all you have to run is
 
    ```sh
    # you can also use npm or yarn

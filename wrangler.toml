@@ -5,5 +5,5 @@ compatibility_date = "2023-09-22"
 [[d1_databases]]
 binding = "DB"
 database_name = "VendettaSongSpotlight"
-database_id = "DATABASE_ID_HERE"
-preview_database_id = "DATABASE_ID_HERE"
+database_id = "afee2d05-b13b-4c89-8501-84670cd08d2b"
+preview_database_id = "afee2d05-b13b-4c89-8501-84670cd08d2b"
