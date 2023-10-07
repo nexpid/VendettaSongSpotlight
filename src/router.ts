@@ -111,7 +111,7 @@ router.post(
 						break;
 					}
 					if (s !== null) {
-						if (s.service !== 'spotify' || !['track', 'album'].includes(s.type) || typeof s.id !== 'string') {
+						if (s.service !== 'spotify' || !['track', 'album', 'playlist'].includes(s.type) || typeof s.id !== 'string') {
 							isValid = false;
 							break;
 						}
