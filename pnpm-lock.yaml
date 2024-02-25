@@ -13,7 +13,7 @@ devDependencies:
     version: 3.5.1
   discord-api-types:
     specifier: ^0.37.58
-    version: 0.37.58
+    version: 0.37.70
   itty-router:
     specifier: ^4.0.0
     version: 4.0.23
@@ -399,8 +399,8 @@ packages:
       ms: 2.1.2
     dev: true
 
-  /discord-api-types@0.37.58:
-    resolution: {integrity: sha512-LubQHjyrr4nXjotWuao9T5RjzvvDstRztIpf5vamIXreSu75FQD20BJv2FnNc+vqrWLWnQwqg3qPb9P6cE2sUw==}
+  /discord-api-types@0.37.70:
+    resolution: {integrity: sha512-8EtfZR0KwOK+yP5q/llWILdUAPmGmF1LmcVUYf7+gtGigz2pu6WR38ZN+IWtMzohY1Ujl2u3KOdbFvrEz9EC8w==}
     dev: true
 
   /esbuild@0.16.3:
